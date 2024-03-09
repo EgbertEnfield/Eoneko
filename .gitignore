@@ -1,5 +1,6 @@
 # PC debugging file
 id.json
+cid.json
 # Replit only file
 .replit
 poetry.lock
