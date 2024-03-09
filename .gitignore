@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 #
 id.json
+=======
+#Replit only file
+.replit
+poetry.lock
+pyproject.toml
+>>>>>>> 1de5a8c954ec64200ca0ca3243225e8ad9c29414
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
